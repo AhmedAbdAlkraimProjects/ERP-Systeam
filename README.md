@@ -5,7 +5,7 @@
 
 # Saling  
 
-<img src="2.png">
+<img src="2.jpg">
 
 # Users
 
